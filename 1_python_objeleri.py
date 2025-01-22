@@ -32,7 +32,7 @@ print(number1)
 
 # hatali 1number
 
-# buyuk kucuk harfe duyarl�
+# buyuk kucuk harfe duyarlı
 
 sayi1 = 10
 Sayi1 = 20
@@ -134,7 +134,7 @@ Meeting = "My name is " + UserName + " " + UserLastName + " and I am " + str(Use
 print(Meeting)
 print(Meeting[4])          # string dizisi
 print(len(Meeting))        # dizi uzunlugu 
-print(Meeting[2:30:2])     # ikişer ikişer alır
+print(Meeting[2:30:2])     # ikiÅŸer ikiÅŸer alÄ±r
 
 
 
@@ -162,8 +162,8 @@ Message = Message.split()        #icindekine gore ayarlar.
 Message = " ".join(Message)      #karaktere gore birlestirir
 print(Message)
 
-Aranan�ndex = Message.find("July")
-print(Aranan�ndex)
+Arananİndex = Message.find("July")
+print(Arananİndex)
 
 Baslangic = Message.startswith("H")
 print(Baslangic)
@@ -217,7 +217,7 @@ print(Cars[-2])
 print(Cars[0:3])
  
 # 8- Asagidaki verileri bir liste icinde saklayiniz.
-StudentA = ["Yiğit Bilgi", 2010, [70,60,70]]
+StudentA = ["YiÄŸit Bilgi", 2010, [70,60,70]]
 StudentB = ["Sena Turan ",1999, [80,80,70]]
 StudentC = ["Ahmet Turan",1998, [80,70,90]]
 Students = [StudentA,StudentB,StudentC]
@@ -245,7 +245,7 @@ print(Numbers)
 
 # Uygulama
 
-Names = ['Ali', 'Yağmur', 'Hakan', 'Deniz']
+Names = ['Ali', 'YaÄŸmur', 'Hakan', 'Deniz']
 Years = [1998, 2000, 1998, 1987]
 
 # "Cenk" ismini listenin sonuna ekleyiniz.
